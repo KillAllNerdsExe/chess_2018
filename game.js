@@ -2,14 +2,7 @@
  * July 11th, 2018
  * Chess App Project for CodeSchool 2018
  * Programmed by
- * Dockstader, Patrick
- * Richardson, Makalee
- * Wright, Grady MK
  * With instruction from
- * Eames, Andrew
- * Holt, DJ
- * Kearl, Matt
- * Wilkinson, Kaden
  */
 
 const pieces = require('./pieces')
